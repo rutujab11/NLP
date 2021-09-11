@@ -1,0 +1,2 @@
+- Conversion of Text-To-Speech and Speech-To-Text using NLTK (pyttsx) and IBM Watson API.
+- Implementation of a Calculator Program that takes voice commands as input and performs Addition, Subtraction, Square, Cube etc. operations
